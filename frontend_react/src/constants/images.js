@@ -14,7 +14,7 @@ import node from '../assets/node.png';
 import python from '../assets/python.png';
 import react from '../assets/react.png';
 import redux from '../assets/redux.png';
-import sass from '../assets/sass.png';
+import mongodb from '../assets/mongodb.png';
 import typescript from '../assets/typescript.png';
 import vue from '../assets/vue.png';
 
@@ -52,7 +52,7 @@ export default {
   python,
   react,
   redux,
-  sass,
+  mongodb,
   typescript,
   vue,
   about01,
